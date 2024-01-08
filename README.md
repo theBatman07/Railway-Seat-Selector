@@ -40,7 +40,7 @@ To run the Railway Seat Selector application, follow these steps:
    ```
 2. Navigate to the project directory.
    ```bash
-   `cd railway-seat-selector`
+   `cd Railway-Seat-Selector`
    ```
   
 3. Run the application.

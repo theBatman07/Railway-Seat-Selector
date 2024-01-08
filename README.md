@@ -36,16 +36,14 @@ To run the Railway Seat Selector application, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/railway-seat-selector.git
+   git clone https://github.com/theBatman07/Railway-Seat-Selector.git
    ```
 2. Navigate to the project directory.
-  
-  ```bash
-  `cd railway-seat-selector`
-  ```
+   ```bash
+   `cd railway-seat-selector`
+   ```
   
 3. Run the application.
-  
-  ```bash
-  `flutter run`
-  ```
+   ```bash
+   `flutter run`
+   ```

@@ -32,8 +32,8 @@ Welcome to the Railway Seat Selector Flutter project! This application provides 
 
 ## Screenshots
 ![Seat View](https://drive.google.com/uc?id=1bRKDjkA6F3DmBgzPOugPQTkDfXX87GC6)
-![Seat Selection](https://drive.google.com/file/d/12ISyZuh-G_QKSKBFo4RvxAaxWPRKmCPV/view?usp=drive_link)
-![Comfirmation Page](https://drive.google.com/file/d/1BSBDl0b-2eqC3y-48hpeYv0KKxIWAOG2/view?usp=drive_link)
+![Seat Selection](https://drive.google.com/uc?id=12ISyZuh-G_QKSKBFo4RvxAaxWPRKmCPV)
+![Confirmation Page](https://drive.google.com/uc?id=1BSBDl0b-2eqC3y-48hpeYv0KKxIWAOG2)
 
 
 ## Getting Started

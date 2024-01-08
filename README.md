@@ -31,9 +31,13 @@ Welcome to the Railway Seat Selector Flutter project! This application provides 
 - Dart is the programming language employed for developing Flutter applications. It is a versatile language with features that enable the creation of efficient and scalable mobile applications.
 
 ## Screenshots
-![Seat View](https://drive.google.com/uc?id=1bRKDjkA6F3DmBgzPOugPQTkDfXX87GC6)
-![Seat Selection](https://drive.google.com/uc?id=12ISyZuh-G_QKSKBFo4RvxAaxWPRKmCPV)
-![Confirmation Page](https://drive.google.com/uc?id=1BSBDl0b-2eqC3y-48hpeYv0KKxIWAOG2)
+<div style="display:flex; justify-content:space-between; align-items:center;">
+
+<img src="https://drive.google.com/uc?id=1bRKDjkA6F3DmBgzPOugPQTkDfXX87GC6" alt="Seat View" width="200"/>
+<img src="https://drive.google.com/uc?id=12ISyZuh-G_QKSKBFo4RvxAaxWPRKmCPV" alt="Seat Selection" width="200"/>
+<img src="https://drive.google.com/uc?id=1BSBDl0b-2eqC3y-48hpeYv0KKxIWAOG2" alt="Confirmation Page" width="200"/>
+
+</div>
 
 ## Demo Video
 [Watch Demo Video](https://drive.google.com/file/d/1G4h6iV7u4iUr1_iAsfQ0FX6xVDiCQMBO/view?usp=drive_link)

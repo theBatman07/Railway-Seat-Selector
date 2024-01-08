@@ -35,8 +35,7 @@ Copy code
 cd railway-seat-selector
 Run the application.
 
-bash
-Copy code
+```bash
 flutter run
 Feel free to explore and customize the code to meet your specific requirements.
 
